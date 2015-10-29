@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom" android:orientation="horizontal" android:background="@drawable/bggradient" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="0.0dip" android:baselineAligned="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewSwitcher android:id="@id/main_left" android:background="@drawable/button_custom" android:focusable="false" android:clickable="true" android:longClickable="true" android:layout_width="190.0px" android:layout_height="58.0dip" android:layout_marginLeft="1.0px" android:layout_marginRight="1.0px">
+        <include android:id="@id/main_left_nohold" layout="@layout/lbuttonnohold" />
+        <include android:id="@id/main_left_hold" layout="@layout/lbuttonhold" />
+    </ViewSwitcher>
+    <Button android:textColor="@color/button_text" android:id="@id/main_mid" android:background="@drawable/button_custom" android:focusable="false" android:longClickable="true" android:layout_width="94.0px" android:layout_height="58.0dip" android:layout_marginLeft="1.0px" android:layout_marginRight="1.0px" android:text="@string/main_mid" />
+    <RelativeLayout android:id="@id/main_right" android:background="@drawable/button_custom" android:paddingLeft="2.0dip" android:paddingTop="1.0dip" android:focusable="false" android:clickable="true" android:longClickable="true" android:layout_width="190.0px" android:layout_height="58.0dip" android:layout_marginLeft="1.0px" android:layout_marginTop="0.0dip">
+        <include android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" layout="@layout/rbutton" />
+    </RelativeLayout>
+</LinearLayout>

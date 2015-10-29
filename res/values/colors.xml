@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_default">#ffa8a8a8</color>
+    <color name="button_focus">#ff2a9aeb</color>
+    <color name="button_press">#fffcbe2b</color>
+    <color name="button_text">#ffffffff</color>
+    <color name="candidate_background">#bbffffff</color>
+    <color name="candidate_normal">#ff000000</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_recommended">#ffe35900</color>
+    <color name="key_shadow">#ffffffff</color>
+    <color name="key_text">#ff000000</color>
+</resources>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method android:settingsActivity="org.nyanya.android.traditionalt9.TraditionalT9Settings"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

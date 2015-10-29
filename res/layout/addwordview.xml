@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/add_word_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="text" android:privateImeOptions="org.nyanya.android.traditionalt9.addword=true">
+        <requestFocus />
+    </EditText>
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/add_word_add" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_word" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:onClick="addWordButton" />
+        <Button android:id="@id/add_word_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:onClick="cancelButton" />
+    </RelativeLayout>
+</LinearLayout>

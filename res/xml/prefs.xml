@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:key="first_preferencescreen"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="@string/pref_help" android:key="help" />
+    <ListPreference android:persistent="true" android:entries="@array/pref_inputmode_entries" android:title="@string/pref_inputmode" android:key="pref_inputmode" android:summary="@string/pref_inputmode_desc" android:defaultValue="0" android:dialogTitle="@string/pref_inputmode" android:entryValues="@array/pref_inputmode_values" />
+    <pl.wavesoftware.widget.MultiSelectListPreference android:persistent="true" android:entries="@array/pref_lang_titles" android:title="@string/pref_lang_title" android:key="pref_lang_support" android:defaultValue="@array/pref_lang_defaults" android:entryValues="@array/pref_lang_values" />
+    <CheckBoxPreference android:persistent="true" android:title="@string/pref_mode_notify" android:key="pref_mode_notify" android:summary="@string/pref_mode_notify_subtitle" android:defaultValue="false" />
+    <Preference android:title="@string/pref_loaddict" android:key="loaddict" />
+    <Preference android:title="@string/pref_loaduserdict" android:key="loaduserdict" android:summary="@string/pref_loaduserdictdesc" />
+    <Preference android:title="@string/pref_nukedict" android:key="nukedict" />
+    <Preference android:title="@string/pref_backupdict" android:key="backupdict" />
+    <Preference android:title="@string/pref_restoredict" android:key="restoredict" />
+    <Preference android:title="@string/pref_querytest" android:key="querytest" />
+</PreferenceScreen>

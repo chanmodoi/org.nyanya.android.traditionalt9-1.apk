@@ -1,0 +1,15 @@
+version: 2.0.0-RC3
+apkFileName: org.nyanya.android.traditionalt9-1.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '10'
+packageInfo:
+  forced-package-id: '127'
+versionInfo:
+  versionCode: '6'
+  versionName: git-fedd835
+compressionType: false

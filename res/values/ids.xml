@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="add_word_text">false</item>
+    <item type="id" name="add_word_add">false</item>
+    <item type="id" name="add_word_cancel">false</item>
+    <item type="id" name="left_hold_upper">false</item>
+    <item type="id" name="left_hold_lower">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="main_left">false</item>
+    <item type="id" name="main_left_nohold">false</item>
+    <item type="id" name="main_left_hold">false</item>
+    <item type="id" name="main_mid">false</item>
+    <item type="id" name="main_right">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="text_keyone">false</item>
+    <item type="id" name="text_keytwo">false</item>
+    <item type="id" name="text_keythree">false</item>
+    <item type="id" name="text_keyfour">false</item>
+    <item type="id" name="text_keyfive">false</item>
+    <item type="id" name="text_keysix">false</item>
+    <item type="id" name="text_keyseven">false</item>
+    <item type="id" name="text_keyeight">false</item>
+    <item type="id" name="text_keynine">false</item>
+    <item type="id" name="text_keystar">false</item>
+    <item type="id" name="text_keyzero">false</item>
+    <item type="id" name="text_keypound">false</item>
+    <item type="id" name="action_settings">false</item>
+</resources>

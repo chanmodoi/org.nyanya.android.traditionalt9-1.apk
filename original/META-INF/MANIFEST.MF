@@ -1,0 +1,229 @@
+Manifest-Version: 1.0
+Built-By: 0.9.0
+Created-By: Android Gradle 0.9.0
+
+Name: res/drawable/key_two.png
+SHA1-Digest: Jbuzy6pMhvVk8TwpKr/xjp6ho64=
+
+Name: res/drawable-hdpi/rcycle.png
+SHA1-Digest: VZ9Q/4qfWUVU44K1cjBsRsMuJjc=
+
+Name: res/drawable-hdpi/ime_en_text_lower.png
+SHA1-Digest: NftQWIXCQwYKXf1vZmZ8eW3qlsk=
+
+Name: res/drawable-hdpi/ime_ru_lang_single.png
+SHA1-Digest: Liv+1naZXCwRXSdomBvReRySa0M=
+
+Name: res/drawable-hdpi/ime_number.png
+SHA1-Digest: 3GDhii3h5/maYQ/mbhcyDuxsJSM=
+
+Name: res/drawable/key_eight.png
+SHA1-Digest: +acNXPz8+U+eRvOMq4GSGBt/cx0=
+
+Name: res/drawable/ime_ru_text_upper.png
+SHA1-Digest: drz3u1hEJGi68EHQuQCc5zOJB0M=
+
+Name: res/drawable-hdpi/ime_ru_text_upper.png
+SHA1-Digest: drz3u1hEJGi68EHQuQCc5zOJB0M=
+
+Name: res/drawable/key_five.png
+SHA1-Digest: mggCD0S55usbsKP13IyJ4PO7rcY=
+
+Name: res/drawable/ime_number.png
+SHA1-Digest: 3GDhii3h5/maYQ/mbhcyDuxsJSM=
+
+Name: res/drawable-hdpi/key_two.png
+SHA1-Digest: Jbuzy6pMhvVk8TwpKr/xjp6ho64=
+
+Name: res/drawable-hdpi/key_star.png
+SHA1-Digest: Uj5gfrUbnZoLnEsBTOKAUO+0C+M=
+
+Name: res/drawable-hdpi/key_six.png
+SHA1-Digest: EYYiQQ1yjikODqKRoFO5WAy4SHU=
+
+Name: res/drawable/key_four.png
+SHA1-Digest: zZInLfXYcasmRix7nR/8W3cL6B8=
+
+Name: res/drawable/bggradient.xml
+SHA1-Digest: zi/oxbEttUZKY3lCQBsP65d588Y=
+
+Name: res/layout/addwordview.xml
+SHA1-Digest: LuniMCWyCsdHPZzuEiNVPpgdxEU=
+
+Name: res/drawable-hdpi/key_one.png
+SHA1-Digest: SaZ7ZvTfJ25ViMqiqBLeypQLfGo=
+
+Name: res/drawable/holdicon.png
+SHA1-Digest: EJ7Kaal2kpU3coXju6M1A09jK8E=
+
+Name: res/layout/rbutton.xml
+SHA1-Digest: N8GpHxt2YFNG+mNdcaOmAz5k6Bk=
+
+Name: res/drawable/button_custom.xml
+SHA1-Digest: 8fDmZqx92OLy8EHYhcmb9y3KsAE=
+
+Name: res/drawable-hdpi/key_eight.png
+SHA1-Digest: +acNXPz8+U+eRvOMq4GSGBt/cx0=
+
+Name: res/drawable/ime_en_lang_single.png
+SHA1-Digest: DZ/9KJvYqGW81tRXUuoLmpsCO7o=
+
+Name: res/drawable-hdpi/ime_en_lang_upper.png
+SHA1-Digest: wICY9VIihZm0xbKyVWv7Cq5KDyQ=
+
+Name: res/drawable/rcycle.png
+SHA1-Digest: VZ9Q/4qfWUVU44K1cjBsRsMuJjc=
+
+Name: res/xml/method.xml
+SHA1-Digest: BWKImDDnIrdBaw2HVOB7WIKCOOQ=
+
+Name: res/menu/add_word.xml
+SHA1-Digest: MD7h0sh4+iFBDw7xFbBJlgxG3ag=
+
+Name: res/drawable-hdpi/holdicon.png
+SHA1-Digest: EJ7Kaal2kpU3coXju6M1A09jK8E=
+
+Name: res/drawable-hdpi/ime_en_text_single.png
+SHA1-Digest: htX3ecgBAzXQm0WY/XHTdKqLNTw=
+
+Name: res/drawable/key_six.png
+SHA1-Digest: EYYiQQ1yjikODqKRoFO5WAy4SHU=
+
+Name: res/drawable/ime_en_text_upper.png
+SHA1-Digest: YSBsfOKCeZpbR7TxMoSvzO55fk0=
+
+Name: res/drawable/button_grad.xml
+SHA1-Digest: CzGDCm3xozZGUU0APBR8Rva49fY=
+
+Name: res/layout/lbuttonnohold.xml
+SHA1-Digest: sHFPuZ2kgLN9p2TR2SAZ+zcdWkc=
+
+Name: res/drawable/key_nine.png
+SHA1-Digest: pZN7g5CAkCxFjch3l+eOqb9dHWQ=
+
+Name: res/xml/prefs.xml
+SHA1-Digest: fI0wBaY+ydbF1XlkABzpDhrqGpg=
+
+Name: res/layout/lbuttonhold.xml
+SHA1-Digest: KeBDvPr613Co/tzPxszy4AANXVo=
+
+Name: res/drawable-hdpi/ime_en_lang_single.png
+SHA1-Digest: DZ/9KJvYqGW81tRXUuoLmpsCO7o=
+
+Name: res/drawable-hdpi/key_three.png
+SHA1-Digest: oxSDFkO+xMcpji0jU82nbJGCh50=
+
+Name: assets/en-utf8.txt
+SHA1-Digest: VwI08eBiRqVI2UUR7SfNC4CkrDA=
+
+Name: res/drawable-hdpi/ime_ru_text_single.png
+SHA1-Digest: ct5mn8FbJwt4RY7/mrb4W8youN4=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: b70n6dL+N9SXKA8EP4khF+VQrlc=
+
+Name: res/drawable/key_one.png
+SHA1-Digest: SaZ7ZvTfJ25ViMqiqBLeypQLfGo=
+
+Name: res/drawable/key_seven.png
+SHA1-Digest: 5HINrfhVENoKMrvZFM+5OvDbnDk=
+
+Name: res/drawable-hdpi/ime_ru_lang_lower.png
+SHA1-Digest: AAMajD6aT4Ru/2QIj5l1W4/1PFo=
+
+Name: res/drawable/key_three.png
+SHA1-Digest: oxSDFkO+xMcpji0jU82nbJGCh50=
+
+Name: res/drawable/key_star.png
+SHA1-Digest: Uj5gfrUbnZoLnEsBTOKAUO+0C+M=
+
+Name: res/drawable/ime_ru_lang_single.png
+SHA1-Digest: Liv+1naZXCwRXSdomBvReRySa0M=
+
+Name: res/drawable/ime_en_text_lower.png
+SHA1-Digest: NftQWIXCQwYKXf1vZmZ8eW3qlsk=
+
+Name: resources.arsc
+SHA1-Digest: iZQA2yZjSQyzda2VXeirCP5YhHc=
+
+Name: assets/ru-utf8.txt
+SHA1-Digest: 0/USPF0RBk6v3/qcaiiFFfv2pPg=
+
+Name: res/layout/symbolview.xml
+SHA1-Digest: pps985r4fs5Nuu9FJjUr9sqnnKg=
+
+Name: res/drawable-hdpi/ime_ru_lang_upper.png
+SHA1-Digest: Qg+UBxN7pr5ja2gxDWWdupCACoA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: qIvtqPb1M9XrHpwJMz8HtljxhM4=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: b70n6dL+N9SXKA8EP4khF+VQrlc=
+
+Name: res/drawable-hdpi/ime_en_text_upper.png
+SHA1-Digest: YSBsfOKCeZpbR7TxMoSvzO55fk0=
+
+Name: res/drawable-hdpi/key_five.png
+SHA1-Digest: mggCD0S55usbsKP13IyJ4PO7rcY=
+
+Name: res/drawable/ime_ru_lang_upper.png
+SHA1-Digest: Qg+UBxN7pr5ja2gxDWWdupCACoA=
+
+Name: res/drawable/ime_ru_text_lower.png
+SHA1-Digest: bAGArDb5gA6WfOegAGrgDifLK3Y=
+
+Name: res/drawable-hdpi/ime_ru_text_lower.png
+SHA1-Digest: bAGArDb5gA6WfOegAGrgDifLK3Y=
+
+Name: res/drawable/key_zero.png
+SHA1-Digest: TZPQAzCcVMyIbDxHccUU8ms8Rvw=
+
+Name: res/drawable/key_pound.png
+SHA1-Digest: eYrRO1AS0/4n+P68q2jxUfkGtwo=
+
+Name: res/drawable-hdpi/key_nine.png
+SHA1-Digest: pZN7g5CAkCxFjch3l+eOqb9dHWQ=
+
+Name: res/drawable/ime_en_lang_lower.png
+SHA1-Digest: OhkVxZ05fBrHHHPpSETFJ5/6ksU=
+
+Name: res/drawable/ime_en_text_single.png
+SHA1-Digest: htX3ecgBAzXQm0WY/XHTdKqLNTw=
+
+Name: res/drawable-hdpi/key_four.png
+SHA1-Digest: zZInLfXYcasmRix7nR/8W3cL6B8=
+
+Name: res/drawable/button_grad_press.xml
+SHA1-Digest: 4SN5U1XbrsdhAkUdrE7OwY0ucp8=
+
+Name: classes.dex
+SHA1-Digest: 9cMwiR/vHyPTm2jl+8KrIQ9lOIo=
+
+Name: res/drawable/ime_en_lang_upper.png
+SHA1-Digest: wICY9VIihZm0xbKyVWv7Cq5KDyQ=
+
+Name: res/drawable/ime_ru_text_single.png
+SHA1-Digest: ct5mn8FbJwt4RY7/mrb4W8youN4=
+
+Name: assets/dict.properties
+SHA1-Digest: 9hyW5VYmcXjwbsIC+kJmjuPUmY0=
+
+Name: res/drawable-hdpi/key_zero.png
+SHA1-Digest: TZPQAzCcVMyIbDxHccUU8ms8Rvw=
+
+Name: res/drawable-hdpi/ime_en_lang_lower.png
+SHA1-Digest: OhkVxZ05fBrHHHPpSETFJ5/6ksU=
+
+Name: res/layout/mainview.xml
+SHA1-Digest: 9KFD5CPeqy3+1ZSS+LwHKdmDdzw=
+
+Name: res/drawable/ime_ru_lang_lower.png
+SHA1-Digest: AAMajD6aT4Ru/2QIj5l1W4/1PFo=
+
+Name: res/drawable-hdpi/key_seven.png
+SHA1-Digest: 5HINrfhVENoKMrvZFM+5OvDbnDk=
+
+Name: res/drawable-hdpi/key_pound.png
+SHA1-Digest: eYrRO1AS0/4n+P68q2jxUfkGtwo=
+
