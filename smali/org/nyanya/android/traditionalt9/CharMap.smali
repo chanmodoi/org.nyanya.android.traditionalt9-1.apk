@@ -2439,8 +2439,8 @@
 
     :array_1
     .array-data 2
-        0x2es
-        0x2cs
+        0x20s
+        0xds
         0x3fs
         0x21s
         0x22s

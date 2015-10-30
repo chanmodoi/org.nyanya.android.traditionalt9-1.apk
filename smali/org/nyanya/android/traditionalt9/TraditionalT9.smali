@@ -2940,6 +2940,7 @@
     goto :goto_0
 .end method
 
+
 .method public onFinishInput()V
     .locals 3
 
@@ -4737,4 +4738,16 @@
     .prologue
     .line 1434
     return-void
+.end method
+
+.method public onEvaluateFullscreenMode()Z
+    .locals 2
+
+    .prologue
+    .line 120
+
+    const/4 v0, 0x0
+
+    return v0
+
 .end method
